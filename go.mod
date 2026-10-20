@@ -1,5 +1,5 @@
 module github.com/takanoriyanagitani/go-zstd-cat
 
-go 1.23.6
+go 1.24
 
-require github.com/klauspost/compress v1.17.11
+require github.com/klauspost/compress v1.18.7
